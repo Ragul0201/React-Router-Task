@@ -1,7 +1,7 @@
 
 # React-Router-Task
 
-This is an exercise website which is based on react router which was designed by me using React. It's Guvi-Zen class Roadmap session: Day-26 and React : Day-6 Task.
+ React : Day-6 Task.
 
 ## Tech Stack
 
@@ -61,5 +61,5 @@ You may also see any lint errors in the console.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at vijaymayhul@gmail.com
+If you have any feedback, please reach out to me at ragulvinayakjan2@gmail.com
 
